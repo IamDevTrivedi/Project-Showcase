@@ -1,0 +1,68 @@
+const projects = [
+    {
+        imageUrl: '',
+        description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Notes-Keeping-App/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Notes-Keeping-App'
+    },
+    {
+        imageUrl: '',
+        description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Clock-App/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Clock-App'
+    },
+    {
+        imageUrl: '',
+        description: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Date-Time-Calculator/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Date-Time-Calculator'
+    },
+    {
+        imageUrl: '',
+        description: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/QR-code-generator/',
+        repoUrl: 'https://github.com/IamDevTrivedi/QR-code-generator'
+    },
+    {
+        imageUrl: '',
+        description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Sudoku-Maker-Solver/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Sudoku-Maker-Solver'
+    },
+    {
+        imageUrl: '',
+        description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Secure-Password-Generator-cpp/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Secure-Password-Generator-cpp'
+    },
+    {
+        imageUrl: '',
+        description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Pomodoro-Timer/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Pomodoro-Timer'
+    },
+    {
+        imageUrl: '',
+        description: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Tic-Tac-Toe/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Tic-Tac-Toe'
+    },
+    {
+        imageUrl: '',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Rock-Paper-Scissors/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Rock-Paper-Scissors'
+    },
+    {
+        imageUrl: '',
+        description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Coin-Flipper/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Coin-Flipper'
+    },
+    {
+        imageUrl: '',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        hostingUrl: 'https://iamdevtrivedi.github.io/Contact-Me/',
+        repoUrl: 'https://github.com/IamDevTrivedi/Contact-Me'
+    }
+];
